@@ -1,7 +1,7 @@
 <h1 align="center"> Hi! My name is Carolina Xu ⋆ ˚｡⋆୨୧˚</h1>
 <p align="center">
   <a href="https://carolinalxu.com/">
-    <img alt="YouTube Channel Views" title="Subscribe to my YouTube channel" target="_blank" src="https://img.shields.io/badge/Portfolio%3A-Monika%20Szucs's%20Website-blue">
+    <img alt="My portfolio" title="View my Portfolio!" target="_blank" src="https://img.shields.io/badge/Portfolio%3A-Carolina%20Xu's%20Website-pink">
   </a>
   </p>
 
