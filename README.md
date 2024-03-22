@@ -1,6 +1,7 @@
 <h1 align="center"> Hi! My name is Carolina Xu ⋆ ˚｡⋆୨୧˚</h1>
+<p align="center">
   <a href="https://carolinalxu.com/">
-
+  </a>p>
 
 <h2> Technologies & Tools</h2>
 <p>
